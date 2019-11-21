@@ -22,28 +22,28 @@
     <img src="doc/microverse.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Getting Your Feet Wet</h3>
+  <h3 align="center">
+	Your Tiitle Here
+  </h3>
 
   <p align="center">
-    A toy app: getting a high-level overview of Ruby on Rails programming (and web development in general) by rapidly generating an application using scaffold generators, which create a large amount of functionality automatically. 
+    Describe project
     <br />
-    <a href="https://github.com/raheebwa/toy_app/blob/master/README.md"><strong>Explore the docs �</strong></a>
+    <a href="https://github.com/[github-user]/[repo-name]/blob/master/README.md"><strong>Explore the docs 📚</strong></a>
     <br />
     <br />
-    <a href="https://www.theodinproject.com/courses/ruby-on-rails/lessons/getting-your-feet-wet">Assigment</a>
-    �
-    <a href="https://github.com/raheebwa/toy_app/issues">Report Bug</a>
-    �
-    <a href="https://github.com/raheebwa/toy_app/issues">Request Feature</a>
+	🖊️
+    <a href="https://www.theodinproject.com">Assigment</a>
+    🐛
+    <a href="https://github.com/[github-user]/[repo-name]/issues">Report Bug</a>
+    🙏
+    <a href="https://github.com/[github-user]/[repo-name]/issues">Request Feature</a>
   </p>
 </p>
 
-# Getting Your Feet Wet
-Implement a version of Ruby’s enumerable methods.
+# Your Sub-title here
+Describe here
 
-[live version](https://toy-app-arir.herokuapp.com)
-
-![live](doc/toy-app.png)
 # Validations
 
 Rubocop: 
@@ -78,18 +78,18 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgements
 * [Microverse](https://www.microverse.org/)
 * [The Odin Project](https://www.theodinproject.com/)
-* [Readme header](https://github.com/collinsugwu/Microverse201-Enumerable-Methods)
+* [Readme header author](https://github.com/collinsugwu/Microverse201-Enumerable-Methods)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/raheebwa/toy_app.svg?style=flat-square
-[contributors-url]: https://github.com/raheebwa/toy_app/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/raheebwa/toy_app
-[forks-url]: https://github.com/raheebwa/toy_app/network/members
-[stars-shield]: https://img.shields.io/github/stars/raheebwa/toy_app
-[stars-url]: https://github.com/raheebwa/toy_app/stargazers
-[issues-shield]: https://img.shields.io/github/issues/raheebwa/toy_app
-[issues-url]: https://github.com/raheebwa/toy_app/issues
-[license-shield]: https://img.shields.io/github/license/raheebwa/toy_app
-[license-url]: https://github.com/raheebwa/toy_app/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/[github-user]/[repo-name].svg?style=flat-square
+[contributors-url]: https://github.com/[github-user]/[repo-name]/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/[github-user]/[repo-name]
+[forks-url]: https://github.com/[github-user]/[repo-name]/network/members
+[stars-shield]: https://img.shields.io/github/stars/[github-user]/[repo-name]
+[stars-url]: https://github.com/[github-user]/[repo-name]/stargazers
+[issues-shield]: https://img.shields.io/github/issues/[github-user]/[repo-name]
+[issues-url]: https://github.com/[github-user]/[repo-name]/issues
+[license-shield]: https://img.shields.io/github/license/[github-user]/[repo-name]
+[license-url]: https://github.com/[github-user]/[repo-name]/blob/master/LICENSE.txt
