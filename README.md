@@ -1,10 +1,23 @@
 # Rails 2.5+ Template
 
 Welcome to our rails template meant to be used for [Microverse](https://www.microverse.org/)'s projects on Rails!
+Generate your Rails project the easy way! 
 
-# Pre requisites
+## Features
 
-The script needs you to have
+* Setup a complete Rails app wit a single script or few commands
+* Makes `rspec` ready to use
+* Uses `bcrypt` so you can start diggest-ing your passwords
+* Spins up home route on request
+* Sets `stickler` on the repo
+* Sets `rubocop` rules
+* Gives you a great README to start with
+* Easy to generate projects in GitHub
+* Meant to be useful for Microverse students and anyone that wants a Rails' App
+
+# Pre Requisites
+
+The script requires you to have:
 
 - Some compatible Linux OS (We tested on Debian/Ubuntu derivatives)
 - `nodejs` latest LTS version
@@ -18,37 +31,17 @@ Now, this is meant to be used as a [GitHub Template](https://help.github.com/en/
 so please don't clone this repository (unless you want to collaborate), 
 use [this button](https://github.com/Israel-Laguan/rails-2.5-app/generate) instead.
 
-<style>
-/* https://www.w3schools.com/css/css3_buttons.asp */
-    button {
-        background-color: #4CAF50;
-        border: none;
-        color: white;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-        transition-duration: 0.4s;
-    }
-
-    button:hover{
-        background-color: white;
-        color: black;
-    }
-</style>
 <div align="center">
     <a href="https://github.com/Israel-Laguan/rails-2.5-app/generate" target="_blank">
-        <button>
-            Use This Template
-        </button>
+        ![template-button](doc/template-button.png)
     </a>
 </div>
 
 ## Creating a new Ruby on Rails project
 
 > Please note that this is for linux only. On windows use [WSL](https://dev.to/hminaya/how-to-run-ruby-on-rails-with-windows-10-and-wsl-1-4he2) or visit
-> [this link](https://lmgtfy.com/?q=install+rails+on+windows)
+> [this link](https://lmgtfy.com/?q=install+rails+on+windows), 
+then run [commands](run_me.sh) from your Terminal.
 
 After you used the template in your project, clone your project in you PC and 
 open a terminal inside your project: 
