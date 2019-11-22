@@ -33,7 +33,7 @@ use [this button](https://github.com/Israel-Laguan/rails-2.5-app/generate) inste
 
 <div align="center">
     <a href="https://github.com/Israel-Laguan/rails-2.5-app/generate" target="_blank">
-        ![template-button](doc/template-button.png)
+        <img src="doc/template-button.png">
     </a>
 </div>
 
