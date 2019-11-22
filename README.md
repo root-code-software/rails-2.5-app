@@ -94,7 +94,7 @@ If you open on a browser `http://localhost:3000` you should see the following te
 
 ---
 
-Last but not least remove this README and substitute for the renamed [README.TEMPLATE](README.TEMPLATE.md) (meant to be used for _Microverse Projects_).
+Last but not least the script remove this README and substitute for the renamed [README.TEMPLATE](README.TEMPLATE.md) (meant to be used for _Microverse Projects_), so if you are running each command instead of using the script make the change of READMEs manually.
 
 ## Troubleshooting
 
@@ -102,8 +102,10 @@ If the script fails try to run from the folder:
 
 `rails new .` < === don't forget the point at the end!!
 
+`rails g rspec:install` < === to make `rspec` available!
+
 If it continue failing maybe you don't have the correct versions of any of the [pre requisites](#pre-requisites),
-so try to install all necesary before running the script. Also you can [tell us](https://github.com/Israel-Laguan/rails-2.5-app/issues) and we'll try to address the issue.
+so try to install all necesary packages/gems before running the script. Also you can [tell us](https://github.com/Israel-Laguan/rails-2.5-app/issues) and we'll try to address the issue.
 
 # Authors
 

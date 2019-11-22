@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-rails new . --skip-coffee --skip-action-mailer -s -m ./template.rb && rails server
+rails new . -s -m ./template.rb && mv README.TEMPLATE.md README.md && rails server
