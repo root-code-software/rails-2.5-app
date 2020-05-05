@@ -15,22 +15,20 @@
   </a>
 
   <h1 align="center">
-	Example Title
+	Rails 2.5+ Template
   </h1>
 
   <p align="center">
-    Example Subtitle
+    Generate your Rails project the easy way!
     <br />
-	  🖊️
-    <a href="https://">Read the article</a>
     🐞
-    <a href="https://github.com/Israel-Laguan/<repo>/issues">Report a Bug</a>
+    <a href="https://github.com/Israel-Laguan/rails-2.5-app/issues">Report a Bug</a>
     🙋‍♂️
-    <a href="https://github.com/Israel-Laguan/<repo>/issues">Request Feature</a>
+    <a href="https://github.com/Israel-Laguan/rails-2.5-app/issues">Request Feature</a>
   </p>
 </p>
 
-# Rails 2.5+ Template
+# The Project
 
 Welcome to our rails template meant to be used for [Microverse](https://www.microverse.org/)'s projects on Rails!
 Generate your Rails project the easy way! 
@@ -51,13 +49,12 @@ Generate your Rails project the easy way!
 
 The script requires you to have:
 
-- Some compatible Linux OS (We tested on Debian/Ubuntu derivatives)
+- Some compatible Linux OS (I've tested on Debian/Ubuntu derivatives)
 - `nodejs` latest LTS version
 - `ruby` 2.5+
 - `rails` 5.2+
 - `git` and normal development stuff
 - Basic terminal and script knowledge
-- Some common sense
 
 Now, this is meant to be used as a [GitHub Template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template),
 so please don't clone this repository (unless you want to collaborate), 
